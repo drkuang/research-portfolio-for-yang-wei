@@ -1,6 +1,6 @@
 # Zheng Kuang — Research Portfolio
 
-A static GitHub Pages portfolio for my PhD application, presenting my research background, computational and experimental results, and fit with the **PhD position in Translational Tumor Immunology** at the University of Basel.
+A static GitHub Pages portfolio for my PhD application, presenting my research background, computational and experimental results.
 
 ## Files
 - `index.html`: main portfolio webpage
